@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\bin\Debug\netcoreapp3.1\ObjetoProgramacao.exe
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\bin\Debug\netcoreapp3.1\ObjetoProgramacao.deps.json
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\bin\Debug\netcoreapp3.1\ObjetoProgramacao.runtimeconfig.json
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\bin\Debug\netcoreapp3.1\ObjetoProgramacao.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\bin\Debug\netcoreapp3.1\ObjetoProgramacao.dll
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\bin\Debug\netcoreapp3.1\ObjetoProgramacao.pdb
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\obj\Debug\netcoreapp3.1\ObjetoProgramacao.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\obj\Debug\netcoreapp3.1\ObjetoProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\obj\Debug\netcoreapp3.1\ObjetoProgramacao.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\obj\Debug\netcoreapp3.1\ObjetoProgramacao.AssemblyInfo.cs
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\obj\Debug\netcoreapp3.1\ObjetoProgramacao.dll
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\obj\Debug\netcoreapp3.1\ObjetoProgramacao.pdb
+C:\Users\USER\Desktop\Csharp\orientacao-objeto\orientacao-objeto-csharp\ObjetoProgramacao\ObjetoProgramacao\obj\Debug\netcoreapp3.1\ObjetoProgramacao.genruntimeconfig.cache
